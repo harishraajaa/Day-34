@@ -1,0 +1,17 @@
+{
+  "name": "day-34",
+  "version": "1.0.0",
+  "description": "A Simple CRUD App to understand Express Js.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Harish Raajaa R V",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
