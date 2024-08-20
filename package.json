@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  },
+  "name": "hall_booking_app",
+  "version": "1.0.0",
+  "description": "Hotel Room Booking Application using Express",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Harish Raajaa R V",
+  "license": "ISC"
+}
